@@ -1,2 +1,3 @@
 # komorebi
-show case off my config and the shortcuts i use
+showcase off my config and style i use 
+i also included the shortcuts & startup methode i use
