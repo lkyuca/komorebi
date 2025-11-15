@@ -1,0 +1,10 @@
+to auto start you need to go to your start-up file on your system
+
+to do this press windows + r   paste in :shell:startup
+
+now your startup file will open press the right mouse button > new > create shortcut 
+
+paste in your own path :"C:\Program Files\komorebi\bin\komorebic-no-console.exe" start --config C:\Users\YOURUSERNAME\komorebi.json --whkd
+
+and press enter and save it
+lastly restart to check if it works 
